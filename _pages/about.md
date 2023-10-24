@@ -41,7 +41,7 @@ Ongoing Research
     <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti <br>
     We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
 </td>
-<img  style="margin-top:1em;" align="left" src="../images/mapf.png" width="160" height="160"/> 
+<img  style="margin-top:0em;" align="left" src="../images/mapf.png" width="160" height="160"/> 
 <td>
     <p style="font-size:200%" style="margin-left:10em;">Language to Plans for Hierarchical Multi-Agent Path Finding<br>
     <strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli <br>
@@ -50,7 +50,7 @@ Ongoing Research
 
 Selected Projects
 ========
-<img  style="margin-top:2em;" align="left" src="../images/scoomatic.png" width="160" height="160"/> 
+<img  style="margin-top:3em;" align="left" src="../images/scoomatic.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/Schoomatic" style="text-decoration:none">
@@ -60,7 +60,7 @@ Selected Projects
 Engine 4, enabling client-server communication via remote procedure call (RPC), and packaging/releasing the
 simulator as a Docker image. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a>a and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
+<img  style="margin-top:1em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none">
@@ -77,7 +77,7 @@ simulator as a Docker image. Additionally, our codebase provides integration wit
     We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers. We Implement and compar CBMA, LeFF, Coordinate Attention and Global-Enhanced Transformer to
 adapt the model to heavy rain scenarios. Designed cascaded model to improve the restoration performance</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
+<img  style="margin-top:0em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
