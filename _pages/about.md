@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MSCS student from [Thomas Lord Department of Computer Science](https://www.cs.usc.edu/), [University of Southern California](https://www.usc.edu/). My research interest includes robotics, computer vision, vision-language model, and robot manipulation.
+I'm an MSCS student from [Thomas Lord Department of Computer Science](https://www.cs.usc.edu/), [University of Southern California](https://www.usc.edu/). I'm intereseted in computer vision, robot visual navigation and robot manipulation with multi-modal prompts. My current research is about empowering intelligent robots with pre-trained foundational models. 
 
-I am very fortunate to be advised by [Prof. Laurent Itti](http://ilab.usc.edu/itti/) of iLab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Laurent Itti](http://ilab.usc.edu/itti/) of iLab at USC.
 You can find my CV here: [Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:cliu2660@usc.edu) / [Github](https://github.com/crellian) / [LinkedIn](https://www.linkedin.com/in/chen-liu-55656219a/)
