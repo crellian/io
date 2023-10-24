@@ -15,24 +15,13 @@ You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-dec
 
 Preprints
 ========
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
-          <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="images/stir-counter-clockwise.gif" alt="clean-usnob" width="160" height="160">
-            </td>
-            <td width="75%" valign="middle">
-              <a href="https://arxiv.org/abs/2109.03813">
-                <papertitle>Video2Skill: Adapting Events in Demonstration Videos to Skills in an Environment using Cyclic MDP Homomorphisms</papertitle>
-              </a>
-              <br>
-              <strong>Sumedh A. Sontakke</strong>, Sumegh Roychowdhury, Mausoom Sarkar, Nikaash Puri, Laurent Itti, Balaji Krishnamurthy
-              <br>
-              <em>Preprint. Under Review. </em>
-              <p>We teach robots to learn skills from demonstrations by humans using real-life video data in a self-supervised manner. Watch our robot stirring by imitating human demonstrations!</p>
-            </td>
-          </tr>
-          
-</tbody></table>
+<div align="center">
+	<br>
+	<a href="../_publications/World_Model.svg">
+		<img src="World_Model.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
         
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="200" height="200"/> 
 <td width="75%" valign="middle">
