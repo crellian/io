@@ -28,7 +28,7 @@ Preprints
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
     <p style="font-size:200%" style="margin-left:10em;">Real-world Robot Visual Navigation in a Simulator: A New Benchmark <br>
-    HengHui Bao*, Kiran Lekkala*, <strong>Chen Liu</strong>, Laurent Itti <br>
+    Kiran Lekkala*, HengHui Bao*, <strong>Chen Liu</strong>, Laurent Itti <br>
     <em>Submitted to Winter Conference on Applications of Computer Vision (WACV) 2024 Workshop. Preprint. </em> <br>
     We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks.</p>
 </td>
@@ -53,22 +53,22 @@ Selected Projects
 <img  style="margin-top:2em;" align="left" src="../images/scoomatic.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
-    <a href="https://github.com/crellian/carla-scoomatic" style="text-decoration:none">
-        Schoomatic  - A Differential-Drive Robot Simulator<br>
+    <a href="https://github.com/crellian/Schoomatic" style="text-decoration:none">
+        Schoomatic - A Differential-Drive Robot Simulator<br>
     </a>
     We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. This involved developing dynamics, collisions and C++ plugins in Unreal
 Engine 4, enabling client-server communication via remote procedure call (RPC), and packaging/releasing the
-simulator as a Docker image. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
+simulator as a Docker image. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a>a and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:2em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
-    <a href="https://github.com/crellian/Schoomatic-Navigation/" style="text-decoration:none">
-        Navigation for Schoomatic<br>
+    <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none">
+        Schoomatic Autopilot<br>
     </a>
     We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:2em;" align="left" src="../images/multi-tasks.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="../assets/weather.pdf" style="text-decoration:none">
@@ -76,12 +76,6 @@ simulator as a Docker image. Additionally, our codebase provides integration wit
     </a>
     We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers. We Implement and compar CBMA, LeFF, Coordinate Attention and Global-Enhanced Transformer to
 adapt the model to heavy rain scenarios. Designed cascaded model to improve the restoration performance</p>
-</td>
-<img  style="margin-top:2em;" align="left" src="../images/eye.png" width="160" height="160"/> 
-<td>
-  <p style="font-size:200%" style="margin-left:10em;">
-    Deep Feature Representation Learning in Multi-modal Ophthalmic<br>
-    Built a stacked auto-encoder which automatically extracts image-based biological representations from OCT images for patients with dry age-related macular degeneration. Used SIFT, RANSAC and affine transformation for image preprocessing, and chose ANOVA for feature selection. The diagnosis accuracy successfully achieved 82.27%. </p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
 <td>
