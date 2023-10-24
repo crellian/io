@@ -50,6 +50,7 @@ Ongoing Research
     <p>We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video. </p>
 </td>
 &nbsp;
+
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <papertitle>Language to Plans for Hierarchical Multi-Agent Path Finding</papertitle>
@@ -68,6 +69,7 @@ Projects
     </a>
     <p>We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
 </td>
+&nbsp;
 
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
@@ -76,6 +78,7 @@ Projects
     </a>
     <p>We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
 </td>
+&nbsp;
 
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
@@ -84,6 +87,7 @@ Projects
     </a>
     <p>We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
 </td>
+&nbsp;
 
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
