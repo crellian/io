@@ -15,7 +15,6 @@ You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-dec
 
 Preprints
 ========
-        
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
     <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
@@ -25,67 +24,63 @@ Preprints
     <em>Preprint. Under Review. </em> <br>
     We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
-<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
-    <papertitle>Real-world Robot Visual Navigation in a Simulator: A New Benchmark</papertitle>
-    <br>
-        HengHui Bao*, Kiran Lekkala*, <strong>Chen Liu</strong>, Laurent Itti
-    <br>
-    <em>Preprint. Under Review. </em>
-    <p>We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. </p>
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<td>
+    <p style="font-size:200%" style="margin-left:1.1em;">Real-world Robot Visual Navigation in a Simulator: A New Benchmark</p>
+    <p style="margin-left:10em;">HengHui Bao*, Kiran Lekkala*, <strong>Chen Liu</strong>, Laurent Itti <br>
+    <em>Preprint. Under Review. </em> <br>
+    We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks.</p>
 </td>
 
 Ongoing Research
 ========
-<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
-    <papertitle>Facilitating Diverse Manipulation with Vision-Language Model</papertitle>
-    <br>
-        <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti
-    <br>
-    <p>We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video. </p>
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<td>
+    <p style="font-size:200%" style="margin-left:1.1em;">Facilitating Diverse Manipulation with Vision-Language Model</p>
+    <p style="margin-left:10em;"><strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti <br>
+    <em>Preprint. Under Review. </em> <br>
+    We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
 </td>
-
-<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
-    <papertitle>Language to Plans for Hierarchical Multi-Agent Path Finding</papertitle>
-    <br>
-        <strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli
-    <br>
-    <p>We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems. </p>
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<td>
+    <p style="font-size:200%" style="margin-left:1.1em;">Language to Plans for Hierarchical Multi-Agent Path Finding</p>
+    <p style="margin-left:10em;"><strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli <br>
+    <em>Preprint. Under Review. </em> <br>
+    We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems. </p>
 </td>
 
 Selected Projects
 ========
-<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<td>
     <a href="https://github.com/crellian/carla-scoomatic" style="text-decoration:none">
-        <papertitle>Schoomatic  - A Differential-Drive Robot Simulator</papertitle>
+        <p style="font-size:200%" style="margin-left:1.1em;">Schoomatic  - A Differential-Drive Robot Simulator</p>
     </a>
-    <p>We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
+    <p style="margin-left:10em;">
+    We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
 </td>
-
-<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<td>
     <a href="https://github.com/crellian/BeoPlan" style="text-decoration:none">
-        <papertitle>Navigation for Schoomatic</papertitle>
+        <p style="font-size:200%" style="margin-left:1.1em;">Navigation for Schoomatic</p>
     </a>
-    <p>We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
+    <p style="margin-left:10em;">
+    We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
 </td>
-
-<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<td>
     <a href="../assets/weather.pdf" style="text-decoration:none">
-        <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
+        <p style="font-size:200%" style="margin-left:1.1em;">Deep Learning-based Image Bad Weather Removal</p>
     </a>
-    <p>We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
+    <p style="margin-left:10em;">
+    We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
 </td>
-
-<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<td>
     <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
-        <papertitle>CVLab</papertitle>
+        <p style="font-size:200%" style="margin-left:1.1em;">CVLab</p>
     </a>
-    <p>We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
+    <p style="margin-left:10em;">
+    We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
 </td>
 
