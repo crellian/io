@@ -58,7 +58,7 @@ Selected Projects
     </a>
     We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. This involved developing dynamics, collisions and C++ plugins in Unreal
 Engine 4, enabling client-server communication via remote procedure call (RPC), and packaging/releasing the
-simulator as a Docker image. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a>a and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
+simulator as a Docker image. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a> and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
 </td>
 <img  style="margin-top:1em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
 <td>
