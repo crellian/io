@@ -25,7 +25,7 @@ Preprints
         <strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti
     <br>
     <em>Preprint. Under Review. </em>
-    <p style="margin-left:5em;">We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+    <p style="margin-left:15em;">We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="200" height="200"/> 
 <td width="75%" valign="middle">
