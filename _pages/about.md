@@ -18,7 +18,7 @@ Preprints
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
     <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
-        <p style="font-size:200%" style="margin-left:1.1em;">World model-based Sim2Real Transfer for Robot Visual Navigation</p>
+        <p style="margin-left:1.1em;">World model-based Sim2Real Transfer for Robot Visual Navigation</p>
     </a>
     <p style="margin-left:10em;"><strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti <br>
     <em>Preprint. Under Review. </em> <br>
