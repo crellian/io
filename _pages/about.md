@@ -15,16 +15,9 @@ You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-dec
 
 Preprints
 ========
-<div align="center">
-	<br>
-	<a href="../_publications/World_Model.svg">
-		<img src="World_Model.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
         
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="200" height="200"/> 
-<td width="75%" valign="middle">
+<td width="75%">
     <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
         <papertitle>World model-based Sim2Real Transfer for Robot Visual Navigation</papertitle>
     </a>
