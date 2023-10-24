@@ -63,7 +63,7 @@ simulator as a Docker image. Additionally, our codebase provides integration wit
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
-    <a href="https://github.com/crellian/BeoPlan" style="text-decoration:none">
+    <a href="https://github.com/crellian/Schoomatic-Navigation/" style="text-decoration:none">
         Navigation for Schoomatic<br>
     </a>
     We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
