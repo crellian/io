@@ -28,7 +28,7 @@ Preprints
 <img  style="margin-top:5em;" align="left" src="../images/profile.png" width="250" height="250"/> 
 <td>
     <p style="font-size:200%" style="margin-left:14em;">Real-world Robot Visual Navigation in a Simulator: A New Benchmark <br>
-    Kiran Lekkala*, HengHui Bao*, <strong>Chen Liu</strong>, Laurent Itti <br>
+    Kiran Lekkala, HengHui Bao, <strong>Chen Liu</strong>, Laurent Itti <br>
     <em>Submitted to Winter Conference on Applications of Computer Vision (WACV) 2024 Workshop. Preprint. </em> <br>
     We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks.</p>
 </td>
