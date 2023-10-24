@@ -35,14 +35,14 @@ Preprints
 
 Ongoing Research
 ========
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:1em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
-    <p style="font-size:200%" style="margin-left:10em;">Facilitating Diverse Manipulation with Vision-Language Model<br>
+    <p style="font-size:150px" style="margin-left:10em;">Facilitating Diverse Manipulation with Vision-Language Model<br>
     <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti <br>
     <em>Preprint. Under Review. </em> <br>
     We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:1em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
     <p style="font-size:200%" style="margin-left:10em;">Language to Plans for Hierarchical Multi-Agent Path Finding<br>
     <strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli <br>
