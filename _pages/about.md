@@ -42,16 +42,6 @@ Ongoing Research
 ========
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
-    <papertitle>Real-world Robot Visual Navigation in a Simulator: A New Benchmark</papertitle>
-    <br>
-        HengHui Bao*, Kiran Lekkala*, <strong>Chen Liu</strong>, Laurent Itti
-    <br>
-    <em> Preprint. Under Review. </em>
-    <p>We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. </p>
-</td>
-
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-<td width="75%" valign="middle">
     <papertitle>Facilitating Diverse Manipulation with Vision-Language Model</papertitle>
     <br>
         <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti
@@ -59,7 +49,7 @@ Ongoing Research
     <em> Preprint. Under Review. </em>
     <p>We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video. </p>
 </td>
-
+&nbsp;
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <papertitle>Language to Plans for Hierarchical Multi-Agent Path Finding</papertitle>
