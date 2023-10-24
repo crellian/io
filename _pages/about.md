@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chen Liu's Space"
+title: "Chen's Space"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
