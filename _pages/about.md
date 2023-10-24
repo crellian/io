@@ -37,15 +37,15 @@ Ongoing Research
 ========
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
-    <p style="font-size:200%" style="margin-left:1.1em;">Facilitating Diverse Manipulation with Vision-Language Model</p>
-    <p style="margin-left:10em;"><strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti <br>
+    <p style="font-size:200%" style="margin-left:10em;">Facilitating Diverse Manipulation with Vision-Language Model<br>
+    <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti <br>
     <em>Preprint. Under Review. </em> <br>
     We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
-    <p style="font-size:200%" style="margin-left:1.1em;">Language to Plans for Hierarchical Multi-Agent Path Finding</p>
-    <p style="margin-left:10em;"><strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli <br>
+    <p style="font-size:200%" style="margin-left:10em;">Language to Plans for Hierarchical Multi-Agent Path Finding<br>
+    <strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli <br>
     <em>Preprint. Under Review. </em> <br>
     We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems. </p>
 </td>
@@ -54,34 +54,34 @@ Selected Projects
 ========
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
+  <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/carla-scoomatic" style="text-decoration:none">
-        <p style="font-size:200%" style="margin-left:1.1em;">Schoomatic  - A Differential-Drive Robot Simulator</p>
+        Schoomatic  - A Differential-Drive Robot Simulator<br>
     </a>
-    <p style="margin-left:10em;">
     We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
+  <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/BeoPlan" style="text-decoration:none">
-        <p style="font-size:200%" style="margin-left:1.1em;">Navigation for Schoomatic</p>
+        Navigation for Schoomatic<br>
     </a>
-    <p style="margin-left:10em;">
     We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
+  <p style="font-size:200%" style="margin-left:10em;">
     <a href="../assets/weather.pdf" style="text-decoration:none">
-        <p style="font-size:200%" style="margin-left:1.1em;">Deep Learning-based Image Bad Weather Removal</p>
+        Deep Learning-based Image Bad Weather Removal<br>
     </a>
-    <p style="margin-left:10em;">
     We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
+  <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
-        <p style="font-size:200%" style="margin-left:1.1em;">CVLab</p>
+        CVLab<br>
     </a>
-    <p style="margin-left:10em;">
     We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
 </td>
 
