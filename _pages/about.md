@@ -15,31 +15,8 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 
 Preprints
 ========
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"  cellspacing="0" cellpadding="0" >
-  <tbody>
-<tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="../images/profile.png" alt="clean-usnob" width="160" height="160">
-            </td>
-            <td width="75%" valign="middle">
-              <a href="https://arxiv.org/abs/2109.03813">
-                <papertitle>Video2Skill: Adapting Events in Demonstration Videos to Skills in an Environment using Cyclic MDP Homomorphisms</papertitle>
-              </a>
-              <br>
-              <strong>Sumedh A. Sontakke</strong>, Sumegh Roychowdhury, Mausoom Sarkar, Nikaash Puri, Laurent Itti, Balaji Krishnamurthy
-              <br>
-              <em>Preprint. Under Review. </em>
-              <p>We teach robots to learn skills from demonstrations by humans using real-life video data in a self-supervised manner. Watch our robot stirring by imitating human demonstrations!</p>
-            </td>
-</tr>
-  </tbody>
-</table>
-<img align="right" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> [World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+[World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
 --------
 Chen Liu*, Kiran Lekkala*, Laurent Itti
 
