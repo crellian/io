@@ -31,5 +31,37 @@ HengHui Bao*, Kiran Lekkala*, Chen Liu, Laurent Itti
 
 We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. 
 
+Ongoing Research Projects
+========
+
+Facilitating Diverse Manipulation with Vision-Language Model
+-------
+Chen Liu, Sumedh Sontakke, Daniel Seita, Laurent Itti
+
+We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.
+
+Language to Plans for Hierarchical Multi-Agent Path Finding
+-------
+Chen Liu, Satish Kumar Thittamaranahalli
+
+We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems.
+
 Projects
 ========
+
+[Schoomatic  - A Differential-Drive Robot Simulator](https://github.com/crellian/carla-scoomatic) 
+-------
+We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.
+
+[Navigation for Schoomatic](https://github.com/crellian/BeoPlan)
+-------
+We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.
+
+[Deep Learning-based Image Bad Weather Removal](../assets/weather.pdf)
+-------
+We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.
+
+[CVLab](https://github.com/crellian/CVLab)
+-------
+We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.
+
