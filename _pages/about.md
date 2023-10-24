@@ -39,14 +39,12 @@ Ongoing Research
 <td>
     <p style="font-size:150px" style="margin-left:10em;">Facilitating Diverse Manipulation with Vision-Language Model<br>
     <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti <br>
-    <em>Preprint. Under Review. </em> <br>
     We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
 </td>
 <img  style="margin-top:1em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
     <p style="font-size:200%" style="margin-left:10em;">Language to Plans for Hierarchical Multi-Agent Path Finding<br>
     <strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli <br>
-    <em>Preprint. Under Review. </em> <br>
     We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems. </p>
 </td>
 
@@ -78,6 +76,12 @@ simulator as a Docker image. Additionally, our codebase provides integration wit
     </a>
     We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers. We Implement and compar CBMA, LeFF, Coordinate Attention and Global-Enhanced Transformer to
 adapt the model to heavy rain scenarios. Designed cascaded model to improve the restoration performance</p>
+</td>
+<img  style="margin-top:2em;" align="left" src="../images/eye.png" width="160" height="160"/> 
+<td>
+  <p style="font-size:200%" style="margin-left:10em;">
+    Deep Feature Representation Learning in Multi-modal Ophthalmic<br>
+    Built a stacked auto-encoder which automatically extracts image-based biological representations from OCT images for patients with dry age-related macular degeneration. Used SIFT, RANSAC and affine transformation for image preprocessing, and chose ANOVA for feature selection. The diagnosis accuracy successfully achieved 82.27%. </p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
 <td>
