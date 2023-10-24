@@ -15,6 +15,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 
 Preprints
 ========
+<table>
 <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="../images/profile.png" alt="clean-usnob" width="160" height="160">
@@ -30,6 +31,7 @@ Preprints
               <p>We teach robots to learn skills from demonstrations by humans using real-life video data in a self-supervised manner. Watch our robot stirring by imitating human demonstrations!</p>
             </td>
 </tr>
+</table>
 <img src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> [World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
 --------
 Chen Liu*, Kiran Lekkala*, Laurent Itti
