@@ -60,6 +60,7 @@ Ongoing Research
     <br>
     <p>We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems. </p>
 </td>
+&nbsp;
 
 Selected Projects
 ========
