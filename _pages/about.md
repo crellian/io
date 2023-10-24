@@ -37,6 +37,8 @@ Preprints
     <p>We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. </p>
 </td>
 
+Ongoing Research
+========
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <papertitle>Real-world Robot Visual Navigation in a Simulator: A New Benchmark</papertitle>
@@ -46,9 +48,6 @@ Preprints
     <em>Preprint. Under Review. </em>
     <p>We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. </p>
 </td>
-
-Ongoing Research
-========
 
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
