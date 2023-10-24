@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MSCS student from <a href="https://www.cs.usc.edu/" style="text-decoration:none">Thomas Lord Department of Computer Science</a>, [University of Southern California](https://www.usc.edu/). I'm intereseted in computer vision, robot visual navigation and robot manipulation with multi-modal prompts. My current research is about empowering intelligent robots with pre-trained foundational models. 
+I'm an MSCS student from <a href="https://www.cs.usc.edu/" style="text-decoration:none">Thomas Lord Department of Computer Science</a>, <a href="https://www.usc.edu/" style="text-decoration:none">University of Southern California</a>. I'm intereseted in computer vision, robot visual navigation and robot manipulation with multi-modal prompts. My current research is about empowering intelligent robots with pre-trained foundational models. 
 
-I am very fortunate to be advised by [Prof. Laurent Itti](http://ilab.usc.edu/itti/) of iLab at USC.
-You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf).
+I am very fortunate to be advised by <a href="http://ilab.usc.edu/itti/" style="text-decoration:none">Prof. Laurent Itti</a> of iLab at USC.
+You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-decoration:none">Chen's Curriculum Vitae</a>.
 
 Preprints
 ========
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="200" height="200"/> 
 <td width="75%" valign="middle">
-    <a href="https://sites.google.com/usc.edu/world-model-sim2real">
+    <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
         <papertitle>World model-based Sim2Real Transfer for Robot Visual Navigation</papertitle>
     </a>
     <br>
@@ -60,7 +60,7 @@ Selected Projects
 ========
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
-    <a href="https://github.com/crellian/carla-scoomatic">
+    <a href="https://github.com/crellian/carla-scoomatic" style="text-decoration:none">
         <papertitle>Schoomatic  - A Differential-Drive Robot Simulator</papertitle>
     </a>
     <p>We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
@@ -68,7 +68,7 @@ Selected Projects
 
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
-    <a href="https://github.com/crellian/BeoPlan">
+    <a href="https://github.com/crellian/BeoPlan" style="text-decoration:none">
         <papertitle>Navigation for Schoomatic</papertitle>
     </a>
     <p>We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
@@ -76,7 +76,7 @@ Selected Projects
 
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
-    <a href="../assets/weather.pdf">
+    <a href="../assets/weather.pdf" style="text-decoration:none">
         <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
     </a>
     <p>We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
@@ -84,7 +84,7 @@ Selected Projects
 
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
-    <a href="https://github.com/crellian/CVLab">
+    <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
         <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
     </a>
     <p>We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
