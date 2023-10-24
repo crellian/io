@@ -18,6 +18,7 @@ Preprints
 <img  style="margin-top:4em;" align="left" src="../images/carlagstview.png" width="160" height="160"/> 
 <td>
     <p style="margin-left:10em;">
+    <a href="../assets/Sim2Real_ICRA__Copy_.pdf"> [PDF] </a>
     <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
         World model-based Sim2Real Transfer for Robot Visual Navigation  <br>
     </a>
