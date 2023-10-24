@@ -26,7 +26,7 @@ Preprints
     <em>Preprint. Under Review. </em>
     <p>We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
-
+&nbsp;
 
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
