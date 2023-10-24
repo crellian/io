@@ -27,45 +27,68 @@ Preprints
     <p>We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 
-Real-world Robot Visual Navigation in a Simulator: A New Benchmark
----------
-HengHui Bao*, Kiran Lekkala*, Chen Liu, Laurent Itti
-
-*Preprint. Under Review.*
-
-We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. 
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<td width="75%" valign="middle">
+    <papertitle>Real-world Robot Visual Navigation in a Simulator: A New Benchmark</papertitle>
+    <br>
+        HengHui Bao*, Kiran Lekkala*, <strong>Chen Liu</strong>, Laurent Itti
+    <br>
+    <em>Preprint. Under Review. </em>
+    <p>We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. </p>
+</td>
 
 Ongoing Research
 ========
 
-Facilitating Diverse Manipulation with Vision-Language Model
--------
-Chen Liu, Sumedh Sontakke, Daniel Seita, Laurent Itti
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<td width="75%" valign="middle">
+    <papertitle>Facilitating Diverse Manipulation with Vision-Language Model</papertitle>
+    <br>
+        <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti
+    <br>
+    <p>We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video. </p>
+</td>
 
-We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.
-
-Language to Plans for Hierarchical Multi-Agent Path Finding
--------
-Chen Liu, Satish Kumar Thittamaranahalli
-
-We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems.
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<td width="75%" valign="middle">
+    <papertitle>Language to Plans for Hierarchical Multi-Agent Path Finding</papertitle>
+    <br>
+        <strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli
+    <br>
+    <p>We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems. </p>
+</td>
 
 Projects
 ========
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<td width="75%" valign="middle">
+    <a href="https://github.com/crellian/carla-scoomatic">
+        <papertitle>Schoomatic  - A Differential-Drive Robot Simulator</papertitle>
+    </a>
+    <p>We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
+</td>
 
-[Schoomatic  - A Differential-Drive Robot Simulator](https://github.com/crellian/carla-scoomatic) 
--------
-We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<td width="75%" valign="middle">
+    <a href="https://github.com/crellian/BeoPlan">
+        <papertitle>Navigation for Schoomatic</papertitle>
+    </a>
+    <p>We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
+</td>
 
-[Navigation for Schoomatic](https://github.com/crellian/BeoPlan)
--------
-We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<td width="75%" valign="middle">
+    <a href="../assets/weather.pdf">
+        <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
+    </a>
+    <p>We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
+</td>
 
-[Deep Learning-based Image Bad Weather Removal](../assets/weather.pdf)
--------
-We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.
-
-[CVLab](https://github.com/crellian/CVLab)
--------
-We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.
+<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<td width="75%" valign="middle">
+    <a href="https://github.com/crellian/CVLab">
+        <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
+    </a>
+    <p>We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
+</td>
 
