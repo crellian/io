@@ -15,7 +15,8 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 
 Preprints
 ========
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tbody>
 <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="../images/profile.png" alt="clean-usnob" width="160" height="160">
