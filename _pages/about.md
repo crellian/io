@@ -50,6 +50,8 @@ Ongoing Research
 </td>
 &nbsp;
 
+
+
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <papertitle>Language to Plans for Hierarchical Multi-Agent Path Finding</papertitle>
@@ -70,6 +72,8 @@ Selected Projects
 </td>
 &nbsp;
 
+
+
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <a href="https://github.com/crellian/BeoPlan">
@@ -79,6 +83,8 @@ Selected Projects
 </td>
 &nbsp;
 
+
+
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <a href="../assets/weather.pdf">
@@ -87,6 +93,8 @@ Selected Projects
     <p>We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
 </td>
 &nbsp;
+
+
 
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
