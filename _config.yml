@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "profile.png"
-  bio              : ""
+  bio              : 
   location         : "Los Angeles"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "cliu2660@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #""
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/chen-liu-55656219a/"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
