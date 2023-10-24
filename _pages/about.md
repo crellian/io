@@ -16,14 +16,12 @@ You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-dec
 Preprints
 ========
         
-<img  style="margin-top:1em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
     <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
         <papertitle  style="margin-left:1.1em;">World model-based Sim2Real Transfer for Robot Visual Navigation</papertitle>
     </a>
-    <br>
-        <strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti
-    <br>
+    <p style="margin-left:10em;"><strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti</p>
     <em style="margin-left:1.1em;">Preprint. Under Review. </em>
     <p style="margin-left:10em;">We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
