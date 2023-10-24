@@ -18,12 +18,11 @@ Preprints
 <img  style="margin-top:4em;" align="left" src="../images/carlagstview.png" width="160" height="160"/> 
 <td>
     <p style="margin-left:10em;">
-    <a href="../assets/Sim2Real_ICRA__Copy_.pdf"> [PDF] </a>
     <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
         World model-based Sim2Real Transfer for Robot Visual Navigation  <br>
     </a>
     <strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti <br>
-    <em>Submitted to International Conference on Robotics and Automation (ICRA) 2024. Under Review. </em> <br>
+    <a href="../assets/Sim2Real_ICRA__Copy_.pdf"> [PDF] </a> <em>Submitted to International Conference on Robotics and Automation (ICRA) 2024. Under Review. </em> <br>
     We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
