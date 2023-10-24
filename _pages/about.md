@@ -17,7 +17,6 @@ Preprints
 ========
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 [World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
---------
 Chen Liu*, Kiran Lekkala*, Laurent Itti
 
 *Preprint. Under Review.*
