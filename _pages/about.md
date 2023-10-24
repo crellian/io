@@ -85,7 +85,7 @@ Selected Projects
 <img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
-        <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
+        <papertitle>CVLab/papertitle>
     </a>
     <p>We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
 </td>
