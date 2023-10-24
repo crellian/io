@@ -23,7 +23,7 @@ Preprints
     </a>
     <strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti <br>
     <em>Submitted to International Conference on Robotics and Automation (ICRA) 2024. Under Review. </em> <br>
-    We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
+    We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
@@ -58,7 +58,9 @@ Selected Projects
     <a href="https://github.com/crellian/carla-scoomatic" style="text-decoration:none">
         Schoomatic  - A Differential-Drive Robot Simulator<br>
     </a>
-    We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
+    We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. This involved developing dynamics, collisions and C++ plugins in Unreal
+Engine 4, enabling client-server communication via remote procedure call (RPC), and packaging/releasing the
+simulator as a Docker image. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
@@ -74,7 +76,8 @@ Selected Projects
     <a href="../assets/weather.pdf" style="text-decoration:none">
         Deep Learning-based Image Bad Weather Removal<br>
     </a>
-    We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
+    We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers. We Implement and compar CBMA, LeFF, Coordinate Attention and Global-Enhanced Transformer to
+adapt the model to heavy rain scenarios. Designed cascaded model to improve the restoration performance</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
 <td>
