@@ -16,8 +16,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 Preprints
 ========
 
-![alt text](../images/profile.png "Title")
-[World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
+![alt text](../images/profile.png "Title") [World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
 --------
 Chen Liu*, Kiran Lekkala*, Laurent Itti
 
@@ -33,7 +32,7 @@ HengHui Bao*, Kiran Lekkala*, Chen Liu, Laurent Itti
 
 We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. 
 
-Ongoing Research Projects
+Ongoing Research
 ========
 
 Facilitating Diverse Manipulation with Vision-Language Model
