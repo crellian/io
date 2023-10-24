@@ -15,7 +15,7 @@ You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-dec
 
 Preprints
 ========
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:2em;" align="left" src="../images/sim2real_block.png" width="160" height="160"/> 
 <td>
     <p style="margin-left:10em;">
     <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
@@ -52,7 +52,7 @@ Ongoing Research
 
 Selected Projects
 ========
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:2em;" align="left" src="../images/scoomatic.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/carla-scoomatic" style="text-decoration:none">
@@ -76,7 +76,7 @@ Selected Projects
     </a>
     We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:2em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
