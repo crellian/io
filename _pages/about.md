@@ -16,10 +16,10 @@ You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-dec
 Preprints
 ========
         
-<img  style="margin-top:5em;" align="left" style="vertical-align: top;" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:5em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
-    <a href="https://sites.google.com/usc.edu/world-model-sim2real" style="text-decoration:none">
-        <papertitle style="margin-left:1.1em;">World model-based Sim2Real Transfer for Robot Visual Navigation</papertitle>
+    <a href="https://sites.google.com/usc.edu/world-model-sim2real"  style="margin-left:1.1em;" style="text-decoration:none">
+        <papertitle>Wor ld model-based Sim2Real Transfer for Robot Visual Navigation</papertitle>
     </a>
     <br>
         <strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti
