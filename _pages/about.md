@@ -20,6 +20,7 @@ Preprints
 [World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
 --------
 Chen Liu*, Kiran Lekkala*, Laurent Itti
+
 *Preprint. Under Review.*
 
 We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.
@@ -27,6 +28,7 @@ We propose a robust system that integrates a control policy, trained within a si
 Real-world Robot Visual Navigation in a Simulator: A New Benchmark
 ---------
 HengHui Bao*, Kiran Lekkala*, Chen Liu, Laurent Itti
+
 *Preprint. Under Review.*
 
 We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks. 
