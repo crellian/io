@@ -16,6 +16,7 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 Preprints
 ========
 
+![alt text](profile.png "Title")
 [World model-based Sim2Real Transfer for Robot Visual Navigatio](https://sites.google.com/usc.edu/world-model-sim2real)
 --------
 Chen Liu*, Kiran Lekkala*, Laurent Itti
