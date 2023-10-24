@@ -26,7 +26,7 @@ Preprints
     <em>Preprint. Under Review. </em>
     <p>We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="200" height="200"/> 
+<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="200" height="200"/> 
 <td width="75%" valign="middle">
     <papertitle>Real-world Robot Visual Navigation in a Simulator: A New Benchmark</papertitle>
     <br>
@@ -38,7 +38,7 @@ Preprints
 
 Ongoing Research
 ========
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <papertitle>Facilitating Diverse Manipulation with Vision-Language Model</papertitle>
     <br>
@@ -47,7 +47,7 @@ Ongoing Research
     <p>We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video. </p>
 </td>
 
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <papertitle>Language to Plans for Hierarchical Multi-Agent Path Finding</papertitle>
     <br>
@@ -58,7 +58,7 @@ Ongoing Research
 
 Selected Projects
 ========
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <a href="https://github.com/crellian/carla-scoomatic">
         <papertitle>Schoomatic  - A Differential-Drive Robot Simulator</papertitle>
@@ -66,7 +66,7 @@ Selected Projects
     <p>We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with RLLib and ROS environments.</p>
 </td>
 
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <a href="https://github.com/crellian/BeoPlan">
         <papertitle>Navigation for Schoomatic</papertitle>
@@ -74,7 +74,7 @@ Selected Projects
     <p>We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
 </td>
 
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <a href="../assets/weather.pdf">
         <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
@@ -82,7 +82,7 @@ Selected Projects
     <p>We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers.</p>
 </td>
 
-<img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
+<img align="left" style="vertical-align: top;" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <a href="https://github.com/crellian/CVLab">
         <papertitle>Deep Learning-based Image Bad Weather Removal</papertitle>
