@@ -45,7 +45,7 @@ Ongoing Research
     <br>
         <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti
     <br>
-    <em></em>
+    <em>  </em>
     <p>We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video. </p>
 </td>
 
