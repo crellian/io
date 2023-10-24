@@ -16,7 +16,6 @@ You can find my CV here: [Chen's Curriculum Vitae](../assets/Chen_Liu_Resume.pdf
 Preprints
 ========
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
-&nbsp;
 <td width="75%" valign="middle">
     <a href="https://sites.google.com/usc.edu/world-model-sim2real">
         <papertitle>World model-based Sim2Real Transfer for Robot Visual Navigation</papertitle>
@@ -27,7 +26,6 @@ Preprints
     <em>Preprint. Under Review. </em>
     <p>We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
-&nbsp;
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
     <papertitle>Real-world Robot Visual Navigation in a Simulator: A New Benchmark</papertitle>
@@ -48,9 +46,6 @@ Ongoing Research
     <br>
     <p>We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video. </p>
 </td>
-&nbsp;
-&nbsp;
-&nbsp;
 
 <img align="left" src="../images/profile.png" alt="clean-usnob" width="160" height="160"/> 
 <td width="75%" valign="middle">
