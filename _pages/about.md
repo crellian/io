@@ -22,14 +22,14 @@ Preprints
         World model-based Sim2Real Transfer for Robot Visual Navigation  <br>
     </a>
     <strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti <br>
-    <em>Preprint. Under Review. </em> <br>
+    <em>Submitted to International Conference on Robotics and Automation (ICRA) 2024. Under Review. </em> <br>
     We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
 <td>
     <p style="font-size:200%" style="margin-left:1.1em;">Real-world Robot Visual Navigation in a Simulator: A New Benchmark</p>
     <p style="margin-left:10em;">HengHui Bao*, Kiran Lekkala*, <strong>Chen Liu</strong>, Laurent Itti <br>
-    <em>Preprint. Under Review. </em> <br>
+    <em>Preprint. </em> <br>
     We collect a large augmented dataset comprising panoramic RGB images annotated with pose stamps and developed a simulator that allows for seamless evaluation of reinforcement learning methods on robot visual navigation tasks.</p>
 </td>
 
