@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MSCS student from <a href="https://www.cs.usc.edu/" style="text-decoration:none">Thomas Lord Department of Computer Science</a>, <a href="https://www.usc.edu/" style="text-decoration:none">University of Southern California</a>. I'm intereseted in computer vision, robot visual navigation and robot manipulation with multi-modal prompts. My current research is about empowering intelligent robots with pre-trained foundational models. 
+I'm an MSCS student from <a href="https://www.cs.usc.edu/" style="text-decoration:none">Thomas Lord Department of Computer Science</a>, <a href="https://www.usc.edu/" style="text-decoration:none">University of Southern California</a>. I'm intereseted in robot visual navigation and robot manipulation. My current research is about empowering intelligent robots with pre-trained foundational models. 
 
 I am very fortunate to be advised by <a href="http://ilab.usc.edu/itti/" style="text-decoration:none">Prof. Laurent Itti</a> of iLab at USC.
 You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-decoration:none">Chen's Curriculum Vitae</a>.
@@ -38,7 +38,7 @@ Ongoing Research
 <img  style="margin-top:1em;" align="left" src="../images/chrome-capture-2023-9-20.gif" width="160" height="160"/> 
 <td>
     <p style="font-size:150px" style="margin-left:10em;">Facilitating Diverse Manipulation with Vision-Language Model<br>
-    <strong>Chen Liu</strong>, Sumedh Sontakke, Daniel Seita, Laurent Itti <br>
+    <strong>Chen Liu</strong>, Sumedh Sontakke, Laurent Itti <br>
     We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
 </td>
 <img  style="margin-top:0em;" align="left" src="../images/mapf.png" width="160" height="160"/> 
