@@ -25,7 +25,7 @@ Preprints
     <a href="../assets/Sim2Real_ICRA__Copy_.pdf"> [PDF] </a> <em>Submitted to International Conference on Robotics and Automation (ICRA) 2024. Under Review. </em> <br>
     We propose a robust system that integrates a control policy, trained within a simulator, with an internal LSTM-based robustness-enhanced world model and an external visual perception model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="../images/profile.png" width="160" height="160"/> 
+<img  style="margin-top:2em;" align="left" src="" width="160" height="160"/> 
 <td>
     <p style="font-size:200%" style="margin-left:10em;">Real-world Robot Visual Navigation in a Simulator: A New Benchmark <br>
     Kiran Lekkala, HengHui Bao, <strong>Chen Liu</strong>, Laurent Itti <br>
