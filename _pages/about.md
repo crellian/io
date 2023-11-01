@@ -56,7 +56,7 @@ Selected Projects
     <a href="https://github.com/crellian/Schoomatic" style="text-decoration:none">
         Schoomatic - A Differential-Drive Robot Simulator<br>
     </a>
-    We develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. This involved developing dynamics, collisions and C++ plugins in Unreal
+    I develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. This involved developing dynamics, collisions and C++ plugins in Unreal
 Engine 4, enabling client-server communication via remote procedure call (RPC), and packaging/releasing the
 simulator as a Docker image. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a> and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
 </td>
@@ -66,7 +66,7 @@ simulator as a Docker image. Additionally, our codebase provides integration wit
     <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none">
         Schoomatic Autopilot<br>
     </a>
-    We implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
+    I implement a ROS-based end-to-end robot navigation system including A* global path planning, Gmapping SLAM, LiDAR-based occupancy grid mapping, Timed-Elastic-Band obstacle avoidance, and PD motion control.</p>
 </td>
 <img  style="margin-top:2em;" align="left" src="../images/multi-tasks.png" width="160" height="160"/> 
 <td>
@@ -83,6 +83,6 @@ adapt the model to heavy rain scenarios. Designed cascaded model to improve the 
     <a href="https://github.com/crellian/CVLab" style="text-decoration:none">
         CVLab<br>
     </a>
-    We build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
+    I build a computer vision library including features such as: a template Matrix class with reference counting, matrix operations, image filters (linear, nonlinear, morphological, and Gabor), image pyramids, etc.</p>
 </td>
 
