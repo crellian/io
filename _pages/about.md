@@ -60,7 +60,7 @@ Selected Projects
 Engine 4, enabling client-server communication via remote procedure call (RPC), and packaging/releasing the
 simulator as a Docker image. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a> and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
 </td>
-<img  style="margin-top:1em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
+<img  style="margin-top:0em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none">
