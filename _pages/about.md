@@ -56,7 +56,7 @@ Selected Projects
     <a href="https://github.com/crellian/Schoomatic" style="text-decoration:none">
         Schoomatic - A Differential-Drive Robot Simulator<br>
     </a>
-    I develop a robot simulator built on CARLA and Unreal Engine 4, embracing all intrinsic CARLA features such as NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a> and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
+    I develop a robot simulator built on CARLA and Unreal Engine 4, embracing features such as LiDAR SLAM, TEB motion planner, PD controller, NPC traffic, variable weather conditions and global waypoint planning. Additionally, our codebase provides integration with <a href="https://github.com/crellian/schoomatic_visnav" style="text-decoration:none">RLLib</a> reinforcement learning framework and <a href="https://github.com/crellian/Schoomatic-Autopilot" style="text-decoration:none"> ROS </a> environments.</p>
 </td>
 <img  style="margin-top:0em;" align="left" src="../images/autopilot.png" width="160" height="160"/> 
 <td>
