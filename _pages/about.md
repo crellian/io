@@ -50,7 +50,7 @@ Ongoing Research
 
 Selected Projects
 ========
-<img  style="margin-top:3em;" align="left" src="../images/scoomatic.png" width="160" height="160"/> 
+<img  style="margin-top:1em;" align="left" src="../images/scoomatic.png" width="160" height="160"/> 
 <td>
   <p style="font-size:200%" style="margin-left:10em;">
     <a href="https://github.com/crellian/Schoomatic" style="text-decoration:none">
