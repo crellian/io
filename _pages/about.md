@@ -73,7 +73,7 @@ Selected Projects
         Deep Learning-based Image Bad Weather Removal<br>
     </a>
     We improve the state-of-the-art transformer-based model, TransWeather, to restore images degraded by different bad weathers. We Implement and compare CBMA, LeFF, Coordinate Attention and Global-Enhanced Transformer to
-adapt the model to heavy rain scenarios. Designed cascaded model to improve the restoration performance</p>
+adapt the model to heavy rain scenarios. We also design a cascaded model to improve the restoration performance</p>
 </td>
 <img  style="margin-top:0em;" align="left" src="../images/Lenna.png" width="160" height="160"/> 
 <td>
