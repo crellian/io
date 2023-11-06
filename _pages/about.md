@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MSCS student from <a href="https://www.cs.usc.edu/" style="text-decoration:none">Thomas Lord Department of Computer Science</a>, <a href="https://www.usc.edu/" style="text-decoration:none">University of Southern California</a>. I'm intereseted in empowering intelligent robots with pre-trained models. My current research is about robot visual navigation and robot manipulation.
+I'm an MSCS student from <a href="https://www.cs.usc.edu/" style="text-decoration:none">Thomas Lord Department of Computer Science</a>, <a href="https://www.usc.edu/" style="text-decoration:none">University of Southern California</a>. I am interested in improving generalization and sample-efficiency of reinforcement learning algorithms by pre-trained models and guiding agents with external knowledge (e.g., large language model or vision-language model). My current research is about visual navigation and manipulation problems.
 
 I am very fortunate to be advised by <a href="http://ilab.usc.edu/itti/" style="text-decoration:none">Prof. Laurent Itti</a> of iLab at USC.
 You can find my CV here: <a href="../assets/Chen_Liu_Resume.pdf" style="text-decoration:none">Chen's Curriculum Vitae</a>.
