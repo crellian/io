@@ -29,7 +29,7 @@ Preprints
 <td>
     <p style="font-size:200%" style="margin-left:10em;">USC-iLAB 3D dataset<br>
     Kiran Lekkala, HengHui Bao, <strong>Chen Liu</strong>, Laurent Itti <br>
-    <em>To be submitted to Winter Conference on Applications of Computer Vision (WACV) 2024 Workshop. </em> <br>
+    <em>In preparation </em> <br>
     Dataset consisting of accurate posestamped RGB Panaromic images and Velodyne pointcloud scans, and collected using the stereo-velodyne rig on top of <a href="https://klekkala.github.io/hardware/"> Beobotv3 </a> within the USC campus. This dataset has wide range utilities including benchmarking NeRFs, 3D Reconstruction, Visual SLAM and also serves as an offline dataset for evaluating pretrained models for Visual Navigation. We also use this dataset for the GenNavGym; A simulator uses Generative Rendering models to evaluate Visual Navigation.</p>
 </td>
 
