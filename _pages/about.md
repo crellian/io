@@ -22,14 +22,14 @@ Preprints
         World model-based Sim2Real Transfer for Robot Visual Navigation  <br>
     </a>
     <strong>Chen Liu*</strong>, Kiran Lekkala*, Laurent Itti <br>
-    <a href="https://arxiv.org/abs/2310.18847"> [ARXIV] </a> <em>Accepted to NeurIPS 2023 Robot Learning Workshop; Submitted to International Conference on Robotics and Automation (ICRA) 2024. </em> <br>
+    <a href="https://arxiv.org/abs/2310.18847"> [ARXIV] </a> <em>6th Robot Learning Workshop at Neural Information Processing Systems (NeurIPS) 2023, NeurIPs Registration Award; Under Review for ICRA. </em> <br>
     We propose a robust system that integrates the control policy with pretrained visual perception model and LSTM-based robustness-enhanced world model, facilitating seamless application of the policy in real-world scenarios.</p>
 </td>
-<img  style="margin-top:2em;" align="left" src="" width="160" height="160"/> 
+<img  style="margin-top:4em;" align="left" src="" width="160" height="160"/> 
 <td>
-    <p style="font-size:200%" style="margin-left:10em;">USC-iLAB 3D dataset<br>
+    <p style="font-size:200%" style="margin-left:10em;">Real-world Visual Navigation in a Simulator using Scene Generation: A new Benchmark<br>
     Kiran Lekkala, HengHui Bao, <strong>Chen Liu</strong>, Laurent Itti <br>
-    <em>In preparation </em> <br>
+    <em>Under preparation. Presented at the 2023 Annenberg Research Symposium. Awarded cash prize. </em> <br>
     Dataset consisting of accurate posestamped RGB Panaromic images and Velodyne pointcloud scans, and collected using the stereo-velodyne rig on top of <a href="https://klekkala.github.io/hardware/"> Beobotv3 </a> within the USC campus. This dataset has wide range utilities including benchmarking NeRFs, 3D Reconstruction, Visual SLAM and also serves as an offline dataset for evaluating pretrained models for Visual Navigation. We also use this dataset for the GenNavGym; A simulator uses Generative Rendering models to evaluate Visual Navigation.</p>
 </td>
 
