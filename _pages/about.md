@@ -41,12 +41,6 @@ Ongoing Research
     <strong>Chen Liu</strong>, Sumedh Sontakke, Laurent Itti <br>
     We introduce a multi-task robotic system that empowers robots to perform long-horizon manipulation tasks by mimicking a human demonstration video.</p>
 </td>
-<img  style="margin-top:0em;" align="left" src="../images/mapf.png" width="160" height="160"/> 
-<td>
-    <p style="font-size:200%" style="margin-left:10em;">Language to Plans for Hierarchical Multi-Agent Path Finding<br>
-    <strong>Chen Liu</strong>, Satish Kumar Thittamaranahalli <br>
-    We use a Large Language Model (LLM) to convert natural language instructions into high-level constraints for HMAPF problems. (<a href="http://idm-lab.org/bib/abstracts/papers/hplan21.pdf" style="text-decoration:none">Image Source</a>)</p>
-</td>
 
 Selected Projects
 ========
